@@ -1,0 +1,14 @@
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\aulas10_10_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\aulas10_10_vetores.AssemblyInfoInputs.cache
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\aulas10_10_vetores.AssemblyInfo.cs
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\aulas10_10_vetores.csproj.CoreCompileInputs.cache
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\aulas10_10_vetores.exe
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\aulas10_10_vetores.deps.json
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\aulas10_10_vetores.runtimeconfig.json
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\aulas10_10_vetores.dll
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\aulas10_10_vetores.pdb
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\aulas10_10_vetores.dll
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\refint\aulas10_10_vetores.dll
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\aulas10_10_vetores.pdb
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\aulas10_10_vetores.genruntimeconfig.cache
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\ref\aulas10_10_vetores.dll

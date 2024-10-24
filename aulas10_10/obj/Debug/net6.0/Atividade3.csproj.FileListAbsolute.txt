@@ -1,0 +1,14 @@
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\Atividade3.exe
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\Atividade3.deps.json
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\Atividade3.runtimeconfig.json
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\Atividade3.dll
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\bin\Debug\net6.0\Atividade3.pdb
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\Atividade3.AssemblyInfoInputs.cache
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\Atividade3.AssemblyInfo.cs
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\Atividade3.dll
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\refint\Atividade3.dll
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\Atividade3.pdb
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\Atividade3.genruntimeconfig.cache
+C:\Users\analu\source\repos\aulas10_10\aulas10_10\obj\Debug\net6.0\ref\Atividade3.dll
